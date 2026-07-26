@@ -804,6 +804,10 @@ def initialize_uq_models(
             "model_id",
             "mode",
             "quant_mode",
+            "temperature",
+            "max_new_tokens",
+            "do_sample",
+            "is_multimodal",
             "kwargs",
         }
 
@@ -867,6 +871,8 @@ def initialize_uq_models(
             "mode",
             "temperature",
             "max_tokens",
+            "custom_llm",
+            "ollama_url",
             "auto_install",
             "kwargs",
         }
