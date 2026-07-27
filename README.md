@@ -55,7 +55,7 @@ Whitebox-UQ/
 | 🧩 Claim-Level Uncertainty | Per-claim uncertainty via a 5-stage pipeline (generate → extract → NLI → score) |
 | 4️⃣ Supervised Uncertainty Head | Learned token-level uncertainty using a pretrained head on Mistral-7B |
 
-> Benchmarking and score normalisation are covered in a separate notebook by other team members.
+> Benchmarking , black box, multimodal and score normalisation will be covered by other team members.
 
 ---
 
