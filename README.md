@@ -1,6 +1,6 @@
 # 🤖 Uncertainty Quantification for Large Language Models: White-Box Methods
 
-A hands-on tutorial notebook covering **white-box uncertainty quantification (UQ)** for LLMs, using three open-source libraries — **UQLM**, **LM-Polygraph**, and **LLM Uncertainty Head** — unified through a lightweight internal utility called `uq_toolbox`.
+A hands-on tutorial notebook covering **white-box uncertainty quantification (UQ)** for LLMs, using three open-source libraries **UQLM**, **LM-Polygraph**, and **LLM Uncertainty Head**  unified through a lightweight internal utility called `uq_toolbox`.
 
 ---
 
